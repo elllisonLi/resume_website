@@ -4,6 +4,7 @@
   <el-icon>
     <i-ep-chat-square></i-ep-chat-square>
   </el-icon>
+  <el-button type="warning">警告</el-button>
 </template>
 
 <script setup>
